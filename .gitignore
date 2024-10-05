@@ -1,0 +1,8 @@
+vendor/
+/bootstrap.php
+uploads/
+.vscode/extensions.json
+.vscode/launch.json
+.pytest_cache
+.vscode
+.env
