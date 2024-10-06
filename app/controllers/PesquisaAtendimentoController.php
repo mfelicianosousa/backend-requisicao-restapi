@@ -6,7 +6,7 @@ use Slim\Http\Request;
 use Slim\Http\Response;
 use PDO;
 
-class PesquisaAtendimentoController {
+final class PesquisaAtendimentoController {
 
     private $db;
 
